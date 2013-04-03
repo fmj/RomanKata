@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseRomerTall", "ParseRomerTall\ParseRomerTall.csproj", "{AEF07B3A-C01F-425B-9A9A-B54C285CBCBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseRomerTallTest", "ParseRomerTallTest\ParseRomerTallTest.csproj", "{265B89D4-0178-4CF7-A03B-4EDFBCCBF1D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF07B3A-C01F-425B-9A9A-B54C285CBCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF07B3A-C01F-425B-9A9A-B54C285CBCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF07B3A-C01F-425B-9A9A-B54C285CBCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF07B3A-C01F-425B-9A9A-B54C285CBCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265B89D4-0178-4CF7-A03B-4EDFBCCBF1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265B89D4-0178-4CF7-A03B-4EDFBCCBF1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265B89D4-0178-4CF7-A03B-4EDFBCCBF1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265B89D4-0178-4CF7-A03B-4EDFBCCBF1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
